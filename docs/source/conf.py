@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Speedbock-Docs'
+copyright = '2026, Speedbock Technologies'
+author = 'Alex Degallaix'
 
 release = '0.1'
 version = '0.1.0'

@@ -1,4 +1,4 @@
-Template for the Read the Docs tutorial
+Speedbock Read the Docs Page
 =======================================
 
 This GitHub template includes fictional Python library
