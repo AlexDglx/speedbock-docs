@@ -13,13 +13,12 @@ To use Speedbock module, first install it using pip:
    (.venv) $ pip install speedbocktech
 
 .. note::
+   The module is a wrapper for the speedbocktech c library.
    It is recommended to create a virtual environment first.
 
 
 Sensors
 -------
-Environment
-~~~~~~~~~~~
 
 Creating routes
 ----------------

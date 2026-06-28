@@ -31,5 +31,21 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
+html_static_path = ['_static']
+
+html_theme_options = {
+    'logo_only': True,
+    'display_version': False,
+    
+    # Table of content options
+    'collapse_navigation':True,
+    'sticky_navigation': True,
+    'titles_only': False,
+    'navigation_depth': 4
+    
+}
+
+html_logo = 'speedbocktech-logo.png'
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
