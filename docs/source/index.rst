@@ -1,22 +1,21 @@
-Welcome to Speedbock Technologies' documentation.
+Speedbock Technologies Docs
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Speedbock** (/spiː-bɒk/) docs is the official page for the companies' devices.
+This documentations gathers details on the hardware and the software for each device designed Speedbock Technologies.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development. All information are subject to change.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
+   hardware
+   software   
    api

@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+Speedbock Technologies - Hardware and software documentation for its sports embedded devices.
 """
 
 __version__ = "0.1.0"
