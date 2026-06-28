@@ -1,9 +1,10 @@
 API
 ===
 
-You will need to request your api key at `speedbocktech.com <www.speedbocktech.com>`_. 
+Ask for your API key at `speedbocktech.com <www.speedbocktech.com>`_ **API** section. 
+Our team will respond within 1 to 2 bussiness days.
 
 .. autosummary::
-   :toctree: generated
+   :toctree: generate
 
-   get_random_ingredients
+   
