@@ -1,0 +1,5 @@
+readthedocs-flyout {
+    position: fixed !important;
+    bottom: 4rem !important;  /* adjust value until it clears the button */
+    right: 0 !important;
+}
