@@ -20,7 +20,7 @@ extensions = [
     'sphinx_rtd_dark_mode'
 ]
 
-default_dark_mode = True
+default_dark_mode = False
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
