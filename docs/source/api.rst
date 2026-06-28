@@ -6,4 +6,4 @@ You will need to request your api key at `speedbocktech.com <www.speedbocktech.c
 .. autosummary::
    :toctree: generated
 
-   speedbocktech
+   get_random_ingredients

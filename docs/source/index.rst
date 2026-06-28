@@ -1,10 +1,10 @@
 Speedbock Technologies Docs
-===================================
+===========================
 
-**Speedbock** (/spiː-bɒk/) docs is the official page for the companies' devices.
+**Speedbock** (/spiːd-bɒk/) docs is the official page for the companies' devices.
 This documentations gathers details on the hardware and the software for each device designed Speedbock Technologies.
 
-Check out the :doc:`usage` section for further information, including
+Check out the :doc:`hardware` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
@@ -15,6 +15,7 @@ Contents
 --------
 
 .. toctree::
+   :hidden:
 
    hardware
    software   
