@@ -6,34 +6,73 @@ Software
 Installation
 ------------
 
-To use Speedbock module, first install it using pip:
+Installing `speedbocktech` module:
 
-.. code-block:: console
+.. tab-set::
 
-   (.venv) $ pip install speedbocktech
+    .. tab-item:: pip
+
+      .. code-block:: console
+
+            (.venv) $ pip install speedbocktech
+
+    .. tab-item:: conda
+
+      .. code-block:: console
+            
+            (.venv) $ conda install speedbocktech
 
 .. note::
    The module is a wrapper for the speedbocktech c library.
-   It is recommended to create a virtual environment first.
+   It is recommended creating a virtual environment before installing the package.
+
+All sensors are accessible using the module's functions. The output result is generally a dictionary.
 
 
 Sensors
 -------
-All sensors come pre-calibrated, it's possible to is possible perform your own calibration for your specific application.
+All sensors come pre-calibrated, it's possible to set your own calibration for your specific application.
 
 .. note::
-   It is possible to revert to factory settings at any moment.
-
+   Reverting to factory settings is possible at any moment. Add page to manual reset.
+   
 
 Environment
 ~~~~~~~~~~~
 
-Creating routes
-----------------
+
+Enclosure
+---------
+Offsets
+~~~~~~~
+
+Routes
+------
+Create
+~~~~~~
+
+Export
+~~~~~~
 
 Downloading Files
 -----------------
+Format
+~~~~~~
 
-Exporting routes
-----------------
+Custom Calibration
+------------------
 
+Pre-installed calibrations are stored in `/device/cal/factory` and cannot be deleted.
+Store your custom calibrations in `/device/cal/custom` to override the factory calibrations.
+
+Camera
+~~~~~~
+
+Proximity Sensor
+~~~~~~~~~~~~~~~~
+
+IMU
+~~~
+
+Temperature
+~~~~~~~~~~~

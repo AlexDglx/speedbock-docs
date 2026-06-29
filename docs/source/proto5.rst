@@ -1,10 +1,11 @@
 proto5
 ======
 
-First device from Speedbock Technologies.
+Welcome to Speedbock Technologies' prototype and development device.
 
 Getting started
 ---------------
+
 
 Device Overview
 ---------------

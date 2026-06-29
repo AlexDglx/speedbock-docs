@@ -26,8 +26,10 @@ extensions = [
     'sphinx.ext.viewcode',
     'sphinx.ext.mathjax',
     'sphinx_rtd_dark_mode',
-    'sphinx_favicon'
+    'sphinx_favicon',
+    'sphinx_design'
 ]
+
 default_dark_mode = False
 
 source_suffixe = '.rst'
